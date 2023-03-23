@@ -1,0 +1,17 @@
+{
+    "name": "harshitethic/writer",
+    "description": "Content writer using OpenAI API",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Harshit Sharma",
+            "email": "harshitsharma.ethic@example.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "vlucas/phpdotenv": "^5.3",
+        "phpmailer/phpmailer": "^6.5",
+        "openai/openai": "dev-main"
+    }
+}
